@@ -2,3 +2,15 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: grey;
+}
+
+h3 {
+    color: red;
+}
