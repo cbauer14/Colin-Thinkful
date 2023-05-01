@@ -9,6 +9,12 @@ h1 {
     font-style: italic;
 }
 
+h2 {
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+
 p {
     color: black;
     text-align: center;
@@ -17,4 +23,10 @@ p {
 h3 {
     color: blue;
     text-align: center;
+}
+
+h4 {
+    color: blue;
+    text-align: center;
+    font-style: italic;
 }
