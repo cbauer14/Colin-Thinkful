@@ -75,6 +75,7 @@ hr {
   border-radius: 10px;
   display: block;
   margin: auto;
+  text-align: center;
   
 a:link {
   color: yellow;
